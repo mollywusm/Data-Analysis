@@ -2,7 +2,7 @@
 
 ## 1 Data Analysis with Python
 
-DA-1 to DA-6
+1.1 to 1.6
 
 ## 2 Data Analysis with R
 
