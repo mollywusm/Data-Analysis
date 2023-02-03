@@ -1,5 +1,5 @@
 # Data-Analysis
 
-  ## Data Analysis with Python
+## Data Analysis with Python
 
-  DA-1 to DA-6
+DA-1 to DA-6
