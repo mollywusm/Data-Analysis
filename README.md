@@ -10,4 +10,4 @@ DA-1 to DA-6
 
 ## 3 Data Analysis with Excel
 
-Montgomery Fleet Equipment Inventory
+3.1 - 3.3 Montgomery Fleet Equipment Inventory
