@@ -1,9 +1,9 @@
 # Data-Analysis
 
-## Data Analysis with Python
+## 1 Data Analysis with Python
 
 DA-1 to DA-6
 
-## Data Analysis with R
+## 2 Data Analysis with R
 
-## Data Analysis with Excel
+## 3 Data Analysis with Excel
